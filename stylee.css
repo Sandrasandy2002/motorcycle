@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url('images/MuchaTseBle.jpg'); /* Replace with the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.dashboard-container {
+    position: relative;
+    padding-bottom: 50px; /* Adjust as needed to make space for the button at the bottom */
+}
+
+.dashboard-buttons {
+    /* Your existing styles for dashboard-buttons */
+}
+
+.dashboard-button#btl {
+    margin-top: 400px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 10px; /* Adjust as needed for spacing */
+    
+}

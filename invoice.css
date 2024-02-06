@@ -1,0 +1,24 @@
+/* invoice.css */
+/* Add your styles for the Invoice Management component */
+.invoice-management-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.invoice {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.dashboard-button {
+    display: block;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
